@@ -8,14 +8,14 @@ The generated embedding can be viewed on [Tensorboard](https://projector.tensorf
 
 `PCG_AML.csv` : information on genes that relate with Acute Myeloid Leukemia cells funcional states. Data re-arranged from [CancerSEA](http://biocc.hrbmu.edu.cn/CancerSEA/home.jsp).
 
-`E_sim.npy` : edges related to similar genes; information derived from metabolic pathway.
+`E_sim.npy` : edges related to similar genes; information derived from metabolic pathway. Information derived from [KEGG](https://www.kegg.jp)
 
-`genes_pathways.txt` : genes for whihc we know one matabolic pathway.
+`genes_pathways.txt` : genes for which we know at least one matabolic pathway.
 
-`count_only_mal_D0_small.npy.zip` : count matrix related only to genes for which we know any relation with an AML functional state. Data re-arrange from [GSE116256](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116256).
+`count_only_mal_D0_small.npy.zip` : count matrix related only to genes for which we know any relation with an AML cells functional state. Data re-arranged from [GSE116256](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116256).
 
 `genes_only_mal_D0_small.txt` : genes associated with the count matrix related only to genes for which we know any relation with an AML functional state.
 
-`count_only_mal_D0.npy.zip` : count matrix related to all the genes availble in the consider GEO series.  Data re-arrange from [GSE116256](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116256).
+`count_only_mal_D0.npy.zip` : count matrix related to all the genes availble in the consider GEO series.  Data re-arranged from [GSE116256](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116256).
 
-`genes_only_mal_D0.txt`: genes associated with the count matrix related to all the genes availble in the consider GEO series.
+`genes_only_mal_D0.txt`: genes associated with the count matrix related to all the genes availble in the considered GEO series.

@@ -1,6 +1,6 @@
 # Computing Disease-Specific Gene Embeddings via Constrained Optimization
 
-This folder contains data for the paper "Computing disease-specific gene embeddings via constrained optimization", submitted to CPAIOR 2022.
+This folder contains data for the paper "Computing disease-specific gene embeddings via constrained optimization", submitted to The 2022 ICML Workshop on Computational Biology.
 
 Notebook with the interesting code part is available at [this link](https://colab.research.google.com/drive/1ozgaBJ-4F2nmmDWGwcWHQS_P56JtiZWl?usp=sharing)
 
